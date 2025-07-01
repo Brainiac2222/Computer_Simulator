@@ -58,3 +58,7 @@ To run this simulator on your local machine, follow these steps.
 | `41`   | BRANCHNEG  | Jump if the accumulator is negative.         |
 | `42`   | BRANCHZERO | Jump if the accumulator is zero.             |
 | `43`   | HALT       | Terminate program execution.                 |
+
+# Preview
+![Screenshot 2025-07-01 014248](https://github.com/user-attachments/assets/2717a098-efdc-4905-bf66-ee54ea1d7f2c)
+![Screenshot 2025-07-01 014400](https://github.com/user-attachments/assets/f389569a-1506-4d00-bf28-032c9fb98f0e)
